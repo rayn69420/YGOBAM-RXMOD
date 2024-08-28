@@ -40,3 +40,6 @@ INSTALLATION:
   - Don't press "Open", Titanium have to install the data after the app install, the game won't work without it.
 - When Titanium finished with the restore. You can open the game from the desktop,
 - Enjoy!
+
+---
+Thank you **youtube.com/@Odd-Eyes19** for sharing your backup of the game!
