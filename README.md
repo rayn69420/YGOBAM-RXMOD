@@ -41,5 +41,7 @@ INSTALLATION:
 - When Titanium finished with the restore. You can open the game from the desktop,
 - Enjoy!
 
+If you have any question or suggestion, feel free to join the project's discord server: https://discord.gg/KPQQahS884
+
 ---
 Thank you **youtube.com/@Odd-Eyes19** for sharing your backup of the game!
