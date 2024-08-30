@@ -2,6 +2,13 @@
 Resurrection of the Yu-Gi-Oh! BAM mobile game.
 ---
 
+
+If you have any question or suggestion, feel free to join the project's discord server: https://discord.gg/KPQQahS884
+
+Thank you **youtube.com/@Odd-Eyes19** for sharing your backup of the game!
+
+---
+
 REQUIREMENTS:
 - Android 5.1 with root access.
   - Download MEmu from: https://www.memuplay.com/
@@ -41,7 +48,7 @@ INSTALLATION:
 - When Titanium finished with the restore. You can open the game from the desktop,
 - Enjoy!
 
-If you have any question or suggestion, feel free to join the project's discord server: https://discord.gg/KPQQahS884
-
 ---
-Thank you **youtube.com/@Odd-Eyes19** for sharing your backup of the game!
+TROUBLESHOOTING:
+- Q: Why is my screen black after I start the game?
+  - A: If the **Render Mode** in MEmu's System settings is on DirectX, switch it to **OpenGL**.
