@@ -3,7 +3,7 @@ Resurrection of the Yu-Gi-Oh! BAM mobile game.
 ---
 
 
-If you have any question or suggestion, feel free to join the project's discord server: https://discord.gg/KPQQahS884
+If you have any question or suggestion, feel free to join the project's discord server: [https://discord.gg/KPQQahS884](https://discord.gg/KPQQahS884)
 
 Thank you **youtube.com/@Odd-Eyes19** for sharing your backup of the game!
 
